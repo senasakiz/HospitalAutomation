@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Listeler xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DoktorListesi>
+    <Doktor>
+      <ID>f946666e-3670-495b-9986-f3a9ca6f4fb1</ID>
+      <TCKN>58964722224</TCKN>
+      <Ad>Ali</Ad>
+      <Soyad>Özyar</Soyad>
+      <Cinsiyet>Erkek</Cinsiyet>
+      <DogumTarihi>1993-06-17T15:14:04</DogumTarihi>
+      <Telefon>(537) 852-9968</Telefon>
+      <Mail>aliozyar@hotmail.com</Mail>
+      <Adres>bahcelievler</Adres>
+      <Servis>KBB</Servis>
+      <Maas>4000</Maas>
+    </Doktor>
+    <Doktor>
+      <ID>4a610698-04d7-4773-aae7-627a110e5fd0</ID>
+      <TCKN>44896512272</TCKN>
+      <Ad>Aras</Ad>
+      <Soyad>Bulut</Soyad>
+      <Cinsiyet>Erkek</Cinsiyet>
+      <DogumTarihi>1990-01-02T17:28:40</DogumTarihi>
+      <Telefon>(534) 285-9677</Telefon>
+      <Mail>alibulut@gmail.com</Mail>
+      <Adres>istanbul</Adres>
+      <Servis>Psikoloji</Servis>
+      <Maas>4500</Maas>
+    </Doktor>
+    <Doktor>
+      <ID>e17a2f35-e675-4ad8-9174-c3241c219f3f</ID>
+      <TCKN>85961476122</TCKN>
+      <Ad>Ayşe</Ad>
+      <Soyad>Demirci</Soyad>
+      <Cinsiyet>Kadın</Cinsiyet>
+      <DogumTarihi>1987-04-06T14:33:45</DogumTarihi>
+      <Telefon>(541) 584-1227</Telefon>
+      <Mail>aysedemirci@gmail.com</Mail>
+      <Adres>Esenler/İstanbul</Adres>
+      <Servis>Kardiyoloji</Servis>
+      <Maas>8800</Maas>
+    </Doktor>
+  </DoktorListesi>
+  <HemsireListesi>
+    <Hemsire>
+      <ID>373701f9-0bb7-497d-942a-f65fc81a8b1b</ID>
+      <TCKN>48997456222</TCKN>
+      <Ad>Esra</Ad>
+      <Soyad>Güngör</Soyad>
+      <Cinsiyet>Kadın</Cinsiyet>
+      <DogumTarihi>2020-08-03T15:15:26</DogumTarihi>
+      <Telefon>(531) 999-8544</Telefon>
+      <Mail>esragungor@hotmail.com</Mail>
+      <Adres>istanbul</Adres>
+      <Doktor>
+        <ID>f946666e-3670-495b-9986-f3a9ca6f4fb1</ID>
+        <TCKN>58964722224</TCKN>
+        <Ad>Ali</Ad>
+        <Soyad>Özyar</Soyad>
+        <Cinsiyet>Erkek</Cinsiyet>
+        <DogumTarihi>1993-06-17T15:14:04</DogumTarihi>
+        <Telefon>(537) 852-9968</Telefon>
+        <Mail>aliozyar@hotmail.com</Mail>
+        <Adres>bahcelievler</Adres>
+        <Servis>KBB</Servis>
+        <Maas>4000</Maas>
+      </Doktor>
+      <Servis>KBB</Servis>
+      <BostaMi>false</BostaMi>
+      <Maas>1000</Maas>
+    </Hemsire>
+    <Hemsire>
+      <ID>3e551716-1a8d-4f33-9eed-da8adc1beca0</ID>
+      <TCKN>47816299668</TCKN>
+      <Ad>Yasemin</Ad>
+      <Soyad>Erkal</Soyad>
+      <Cinsiyet>Kadın</Cinsiyet>
+      <DogumTarihi>1990-01-18T14:37:09</DogumTarihi>
+      <Telefon>(544) 719-6487</Telefon>
+      <Mail>yasseminerkal@gmail.com</Mail>
+      <Adres>Fatih/İstanbul</Adres>
+      <Doktor>
+        <ID>e17a2f35-e675-4ad8-9174-c3241c219f3f</ID>
+        <TCKN>85961476122</TCKN>
+        <Ad>Ayşe</Ad>
+        <Soyad>Demirci</Soyad>
+        <Cinsiyet>Kadın</Cinsiyet>
+        <DogumTarihi>1987-04-06T14:33:45</DogumTarihi>
+        <Telefon>(541) 584-1227</Telefon>
+        <Mail>aysedemirci@gmail.com</Mail>
+        <Adres>Esenler/İstanbul</Adres>
+        <Servis>Kardiyoloji</Servis>
+        <Maas>8800</Maas>
+      </Doktor>
+      <Servis>Kardiyoloji</Servis>
+      <BostaMi>false</BostaMi>
+      <Maas>4500</Maas>
+    </Hemsire>
+  </HemsireListesi>
+  <HastaListesi>
+    <Hasta>
+      <ID>cf87009f-6d4b-4542-bba4-22bf828c5bff</ID>
+      <TCKN>12358547762</TCKN>
+      <Ad>Sena</Ad>
+      <Soyad>Sakız</Soyad>
+      <Cinsiyet>Kadın</Cinsiyet>
+      <DogumTarihi>2020-08-04T15:12:59</DogumTarihi>
+      <Telefon>(534) 825-6999</Telefon>
+      <Mail>senasakiz@hotmail.com</Mail>
+      <Adres>bayrampaşa ist</Adres>
+    </Hasta>
+    <Hasta>
+      <ID>96d1b274-1d1d-436b-8459-5f1d6fed0c1e</ID>
+      <TCKN>48771296484</TCKN>
+      <Ad>Zeynep</Ad>
+      <Soyad>Kolçak</Soyad>
+      <Cinsiyet>Kadın</Cinsiyet>
+      <DogumTarihi>2005-06-09T17:32:04</DogumTarihi>
+      <Telefon>(531) 984-5561</Telefon>
+      <Mail>zeynepkolcak1@gmail.com</Mail>
+      <Adres>esenler/istanbul</Adres>
+    </Hasta>
+    <Hasta>
+      <ID>da81532a-ecfe-4b63-ac6c-db6e21065a2b</ID>
+      <TCKN>47859642242</TCKN>
+      <Ad>Emir</Ad>
+      <Soyad>Korkmaz</Soyad>
+      <Cinsiyet>Erkek</Cinsiyet>
+      <DogumTarihi>1990-08-07T17:13:45</DogumTarihi>
+      <Telefon>(531) 698-2471</Telefon>
+      <Mail>emirkorkmaz@gmail.com</Mail>
+      <Adres>Bağcılar/İstanbul</Adres>
+    </Hasta>
+  </HastaListesi>
+  <PersonelListesi>
+    <Personel>
+      <ID>5cf672f2-2f2e-45da-91ac-351a0b832fc6</ID>
+      <TCKN>94756201618</TCKN>
+      <Ad>Sefa</Ad>
+      <Soyad>Sarıgül</Soyad>
+      <Cinsiyet>Erkek</Cinsiyet>
+      <DogumTarihi>1995-04-16T13:11:09</DogumTarihi>
+      <Telefon>(531) 847-5668</Telefon>
+      <Mail>sefasarigul@gmail.com</Mail>
+      <Adres>Bakırköy/İstanbul</Adres>
+      <Maas>5000</Maas>
+      <Departman>Guvenlik</Departman>
+    </Personel>
+  </PersonelListesi>
+  <RandevuListesi />
+</Listeler>
